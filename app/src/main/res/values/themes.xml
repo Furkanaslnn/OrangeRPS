@@ -1,0 +1,39 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.OrangeRPS" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <!-- ActionBar rengi -->
+        <item name="colorPrimary">@color/orange</item>
+
+        <!-- ActionBar'ın altındaki çubuğun rengi -->
+        <item name="colorPrimaryDark">@color/orange</item>
+
+        <!-- Genel arka plan rengi -->
+        <item name="android:windowBackground">@color/gray</item>
+
+        <!-- Butonların rengi -->
+        <item name="colorButtonNormal">@color/orange</item>
+
+        <!-- Menü öğelerinin arka plan rengi -->
+        <!--<item name="android:itemBackground">@color/menuItemBackground</item> -->
+
+        <!-- İlerleme çubuğu rengi -->
+        <!--<item name="colorControlActivated">@color/progressBarColor</item> -->
+
+        <!-- Text renkleri -->
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/white</item>
+
+        <!-- Diğer renk ayarları -->
+        <!-- ... -->
+
+    </style>
+
+    <style name="Theme.OrangeRPS" parent="Base.Theme.OrangeRPS" >
+        <!-- Temanızın ek özellikleri -->
+        <!-- <item name="colorAccent">@color/yellow</item> -->
+        <!-- veya başka bir özellik ekleyebilirsiniz -->
+    </style>
+</resources>
