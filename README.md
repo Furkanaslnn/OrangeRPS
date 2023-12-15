@@ -39,3 +39,6 @@ Bu oyun, Kotlin programlama dilinde yazılmıştır. Oyunun ana mantığı şu a
    - Oyunu başlatmak için cihazınızın ana ekranında veya uygulama menüsünde oyun simgesine dokunun.
 
 Artık oyununuz Android cihazınızda kullanıma hazır!
+
+
+![Proje Resmi](images/proje_resmi.png)
