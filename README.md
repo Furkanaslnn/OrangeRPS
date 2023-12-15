@@ -24,7 +24,7 @@ Bu oyun, Kotlin programlama dilinde yazılmıştır. Oyunun ana mantığı şu a
 ## APK İndirme ve Yükleme
 
 1. **APK Dosyasını İndirme**
-   - Bu depodan [APK dosyasını](APK/oyun.apk) indirin.
+   - Bu depodan [APK dosyasını](OrangeRPS.apk) indirin.
 
 2. **Android Cihazına Yükleme**
    - İndirdiğiniz APK dosyasını Android cihazınıza transfer edin.
